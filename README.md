@@ -1,2 +1,2 @@
 # cybersecurity-notes
-Cybersecurity learning notes, email security concepts, and technical documentation.
+Cybersecurity notes, email security concepts, network security, and security operations knowledge base.
