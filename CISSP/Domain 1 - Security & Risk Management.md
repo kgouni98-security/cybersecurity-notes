@@ -1,6 +1,8 @@
 
 **Lesson 1: The CISSP Mindset**
 
+**(CIA, Governance, Risk, Risk Responses)**
+
 The CISSP exam usually rewards the management-level answer before the technical answer.
 
 **Core Concept 1: CIA Triad**
@@ -35,4 +37,21 @@ Examples:
 Redundancy
 Backups
 Disaster recovery
+
+**Access Principles**
+
+Least Privilege
+Separation of Duties
+Need to Know
+
+**Governance**
+
+Policy → Standard → Procedure → Guideline
+
+**Risk Responses**
+
+Accept
+Mitigate
+Transfer
+Avoid
 
