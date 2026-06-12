@@ -77,7 +77,8 @@ Do nothing	        -->          Accept
 
 **When You See Governance Documents:**
 
-Most Important          -->        	Policy
-Technical Requirement	  -->         Standard
-Step-by-Step	          -->         Procedure
-Recommendation	        -->         Guideline
+Most Important          -->        	Policy      -->    All company systems must be protected.
+Technical Requirement	  -->         Standard    -->    Endpoints must run approved EDR software.
+Step-by-Step	          -->         Procedure   -->    Steps to install EDR.
+Recommendation	        -->         Guideline   -->    Recommended EDR tuning settings.
+
