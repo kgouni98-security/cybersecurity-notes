@@ -55,3 +55,29 @@ Mitigate
 Transfer
 Avoid
 
+
+**When You See Questions Like:**
+
+**What should be done FIRST?**
+
+**Usually think:**
+
+Assess risk
+Understand business impact
+Follow policy/governance
+Then implement technology
+
+**When You See Risk Responses:**
+
+Action	            -->          Answer
+Insurance	          -->          Transfer
+MFA	                -->          Mitigate
+Remove system	      -->          Avoid
+Do nothing	        -->          Accept
+
+**When You See Governance Documents:**
+
+Most Important          -->        	Policy
+Technical Requirement	  -->         Standard
+Step-by-Step	          -->         Procedure
+Recommendation	        -->         Guideline
