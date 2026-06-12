@@ -1,4 +1,4 @@
-Future Article Ideas
+**Future Article Ideas**
 
 - SPF vs DKIM vs DMARC
 - Common Cisco ESA Mail Flow Issues
